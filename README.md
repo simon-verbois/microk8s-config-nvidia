@@ -1,4 +1,6 @@
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsimon-verbois%2Fmicrok8s-config-nvidia&label=Visitors&countColor=26A65B&style=plastic" alt="Visitor Count" width="85"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsimon-verbois%2Fmicrok8s-config-nvidia&label=Visitors&countColor=26A65B&style=plastic" alt="Visitor Count" width="85"/> 
+[![GitHub Stars](https://img.shields.io/github/stars/simon-verbois/microk8s-config-nvidia?style=plastic)](https://github.com/simon-verbois/microk8s-config-nvidia/stargazers)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/simon-verbois/microk8s-config-nvidia?style=plastic)](https://github.com/simon-verbois/microk8s-config-nvidia/commits/main)
 
 # Requirements
 - [Nvidia Driver](https://docs.nvidia.com/datacenter/tesla/driver-installation-guide/) should be installed on the host
