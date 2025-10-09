@@ -1,3 +1,8 @@
+## Project Views
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimon-verbois%2Fmicrok8s-config-nvidia)
+
+<br>
+
 # Requirements
 - [Nvidia Driver](https://docs.nvidia.com/datacenter/tesla/driver-installation-guide/) should be installed on the host
 - [Nvidia Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/1.17.8/install-guide.html) should be installed on the host 
