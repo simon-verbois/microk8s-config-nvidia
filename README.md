@@ -21,8 +21,9 @@ kubectl get pods -n gpu-operator-resources -w
 
 # Ensure the initial setup is OK
 kubectl describe node | grep nvidia.com/gpu
+## You should see a 1 on the right on the nvidia.com/gpu
 
-## Create and apply the configmap config
+## Create and apply the configmap
 kubectl apply -n gpu-operator-resources -f time-slicing-config-all.yaml
 
 ## Patch the live policy
@@ -41,6 +42,7 @@ kubectl get pods -n gpu-operator-resources -w
 
 # Check if the GPU parts are available
 kubectl describe node| grep nvidia.com/gpu
+## You should see the number of part you add in your time-slicing on the right on the nvidia.com/gpu
 ```
 
 <br>
