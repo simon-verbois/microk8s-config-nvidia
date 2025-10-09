@@ -41,7 +41,7 @@ kubectl get events -n gpu-operator-resources --sort-by='.lastTimestamp'
 kubectl get pods -n gpu-operator-resources -w
 
 # Check if the GPU parts are available
-kubectl describe node| grep nvidia.com/gpu
+kubectl describe node | grep nvidia.com/gpu
 ## You should see the number of part you add in your time-slicing on the right on the nvidia.com/gpu
 ```
 
