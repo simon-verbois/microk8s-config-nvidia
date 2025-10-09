@@ -59,6 +59,6 @@ kubectl get pods -w
 kubectl logs -f nvidia-smi-test
 
 # Cleanup the pod
-kubectl delete pod nvidia-smi-test 
+kubectl delete -f testing.yaml
 ```
 
