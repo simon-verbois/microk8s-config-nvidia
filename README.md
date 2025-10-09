@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsimon-verbois%2Fmicrok8s-config-nvidia&label=Visitors&countColor=26A65B&style=plastic" alt="Visitor Count" height="28"/>
-  <a href="https://github.com/simon-verbois/microk8s-config-nvidia/stargazers"><img src="https://img.shields.io/github/stars/simon-verbois/microk8s-config-nvidia?style=plastic" alt="GitHub Stars" height="28"/></a>
-  <a href="https://github.com/simon-verbois/microk8s-config-nvidia/network/members"><img src="https://img.shields.io/github/forks/simon-verbois/microk8s-config-nvidia?style=plastic" alt="GitHub Forks" height="28"/></a>
   <a href="https://github.com/simon-verbois/microk8s-config-nvidia/commits/main"><img src="https://img.shields.io/github/last-commit/simon-verbois/microk8s-config-nvidia?style=plastic" alt="GitHub Last Commit" height="28"/></a>
 </p>
 
