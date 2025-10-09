@@ -1,4 +1,4 @@
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsimon-verbois%2Fmicrok8s-config-nvidia&label=Visitor Count&countColor=26A65B&style=plastic" alt="Visitor Count" width="75"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsimon-verbois%2Fmicrok8s-config-nvidia&label=Visitor&countColor=26A65B&style=plastic" alt="Visitor Count" width="75"/>
 
 # Requirements
 - [Nvidia Driver](https://docs.nvidia.com/datacenter/tesla/driver-installation-guide/) should be installed on the host
